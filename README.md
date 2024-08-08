@@ -3,7 +3,7 @@
 ## Description
 58,255 Images Object Detection Data in Construction Site Scenes. The collection scenes include indoor and outdoor scenes. The data includes Asians. The data includes multiple devices, multiple lighting conditions, multiple scenes and multiple collection time periods. The data can be used for tasks such as safety helmet, reflective vest and human body detection.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1220?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1220?source=Github
 
 
 ## Data size
